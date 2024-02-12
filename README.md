@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello there! I'm [Your Name], a passionate Technical Lead specializing in Test Automation with a robust skill set in Java, Python, Selenide, RestAssured, Requests, Docker, Gradle, and Maven technologies.
+👋 Hello there! I'm Mariusz Bogdański, a passionate Technical Lead specializing in Test Automation with a robust skill set in Java, Python, Selenide, RestAssured, Requests, Docker, Gradle, and Maven technologies.
 
 🚀 As a seasoned professional, I thrive on building robust test automation frameworks that ensure the delivery of high-quality software. My expertise lies in creating scalable and maintainable solutions, enabling teams to achieve efficient and reliable testing processes.
 
